@@ -1,4 +1,3 @@
-<br/><br/><br/>
 
 # MANGO (음악 스트리밍 사이트)
 음악 스트리밍 사이트, ITWILL 교육과정 Spring 프로젝트
